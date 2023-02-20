@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Erryon"><img src="https://api.daily.dev/devcards/57b23968fa4f45a1a8fcd0b4e8a0b4f7.png?r=60c" width="400" alt="Eric Tron's Dev Card"/></a>
-
+<a href="https://app.daily.dev/Erryon"><img src="https://api.daily.dev/devcards/57b23968fa4f45a1a8fcd0b4e8a0b4f7.png?r=m5k" width="400" alt="Eric Tron's Dev Card"/></a>
 <!--
 **Erryon/Erryon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
