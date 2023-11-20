@@ -28,8 +28,8 @@
 - BTS in Software Solutions and Business Applications (SLAM), Lycée Marc Bloch Sérignan (2013-2014)
 - BTS in Software Solutions and Business Applications (SLAM), Lycée Jean Moulin Béziers (2012-2013)
 ### 💬 Languages
-English: Proficient (C1)
-French: Native Speaker
+- English: Proficient (C1)
+- French: Native Speaker
 
 
 Let's build something amazing together! 🚀
