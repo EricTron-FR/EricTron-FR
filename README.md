@@ -4,13 +4,13 @@
 
 ### 🎯 Professional Snapshot
 - Current Role: Senior Backend Software Engineer at Payplug
--- 📅 Tenure: Jul 2023 - Present
--- 💡 Focus: Developing high-performance Java algorithms for fintech applications.
-  Previous Experience
-Sequoiasoft (Jan 2023 - May 2023): Java/PHP/React Developer for camping sector applications.
-Smile (Jul 2021 - Nov 2022): Java/Angular Developer, contributed to a banking sector feed aggregator.
-Inetum (Jun 2018 - Jul 2021): Led a team as a Java/Angular Developer for HR application development.
-Capgemini (Mar 2015 - Jun 2018): SI Consultant, worked on COBOL and Java JEE applications.
+- - 📅 Tenure: Jul 2023 - Present
+- - 💡 Focus: Developing high-performance Java algorithms for fintech applications.
+- Previous Experience
+- - Sequoiasoft (Jan 2023 - May 2023): Java/PHP/React Developer for camping sector applications.
+- - Smile (Jul 2021 - Nov 2022): Java/Angular Developer, contributed to a banking sector feed aggregator.
+- - Inetum (Jun 2018 - Jul 2021): Led a team as a Java/Angular Developer for HR application development.
+- - Capgemini (Mar 2015 - Jun 2018): SI Consultant, worked on COBOL and Java JEE applications.
 🌟 Key Achievements
 Developed advanced backend services for secure and efficient financial transaction processing.
 Revamped client dashboards, integrated payment systems, and enhanced application maintainability.
