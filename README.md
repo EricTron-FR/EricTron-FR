@@ -1,3 +1,36 @@
-### Hi there 👋
+### 👋 Hi there, I'm Eric!
+🚀 Senior Backend Software Engineer | Java Expert | Algorithm Specialist
+📍 Based in Montpellier, France - Bringing 8+ years of backend development expertise, particularly in Java, to the fintech world at Payplug.
 
-- 🔭 I’m currently working on a dungeon crawler browser game with the <a href="https://www.mongodb.com/mern-stack#:~:text=MERN%20stands%20for%20MongoDB%2C%20Express,a%20client%2Dside%20JavaScript%20framework">MERN Stack</a>
+### 🎯 Professional Snapshot
+- Current Role: Senior Backend Software Engineer at Payplug
+-- 📅 Tenure: Jul 2023 - Present
+-- 💡 Focus: Developing high-performance Java algorithms for fintech applications.
+  Previous Experience
+Sequoiasoft (Jan 2023 - May 2023): Java/PHP/React Developer for camping sector applications.
+Smile (Jul 2021 - Nov 2022): Java/Angular Developer, contributed to a banking sector feed aggregator.
+Inetum (Jun 2018 - Jul 2021): Led a team as a Java/Angular Developer for HR application development.
+Capgemini (Mar 2015 - Jun 2018): SI Consultant, worked on COBOL and Java JEE applications.
+🌟 Key Achievements
+Developed advanced backend services for secure and efficient financial transaction processing.
+Revamped client dashboards, integrated payment systems, and enhanced application maintainability.
+Instrumental in deploying a feed aggregator that boosted customer engagement by 25%.
+Led the development of an HR portal, improving HR operations efficiency by 30%.
+🛠️ Tech Stack
+Languages: Java, JavaScript/TypeScript, Python
+Frameworks: React.js, Angular, Spring-boot, node.js
+Databases: MySQL, MongoDB, Oracle DB
+Tools: GitLab, Kubernetes, Liquibase, COBOL
+Certificates: The complete 2021 Web Development Bootcamp
+🎓 Education
+Licence in Project Management/Development, IUT MONTPELLIER-SETE (2014-2015)
+BTS in Software Solutions and Business Applications (SLAM), Lycée Marc Bloch Sérignan (2013-2014)
+BTS in Software Solutions and Business Applications (SLAM), Lycée Jean Moulin Béziers (2012-2013)
+💬 Languages
+English: Proficient (C1)
+French: Native Speaker
+Feel free to connect with me on LinkedIn or drop me an email at email@example.com!
+
+🌟 Looking forward to collaborating and contributing to innovative projects!
+
+Let's build something amazing together! 🚀
