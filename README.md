@@ -31,6 +31,4 @@
 - English: Proficient (C1)
 - French: Native Speaker
 
-## Currently building a cyberpunk dungeon crawler in NextJS and ExpressJS
-
-Let's build something amazing together! 🚀
+## 🚧 Currently building a cyberpunk dungeon crawler in NextJS and ExpressJS 🚧
