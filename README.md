@@ -1,3 +1,5 @@
+[![MockFast.io](https://img.shields.io/badge/Projet-MockFast.io-blue)](https://mockfast.io)
+
 ### 👋 Hi there, I'm Eric!
 🚀 Senior Backend Software Engineer | Java Expert | Algorithm Specialist
 📍 Based in Montpellier, France - Bringing 8+ years of backend development expertise, particularly in Java, to the fintech world at Payplug.
@@ -16,7 +18,6 @@
 - Instrumental in deploying a feed aggregator that boosted customer engagement by 25%.
 - Led the development of an HR portal, improving HR operations efficiency by 30%.
 - Founded and built [MockFast.io](https://mockfast.io), an innovative tool that simplifies API mocking and accelerates development workflows.
-- [![MockFast.io](https://img.shields.io/badge/Projet-MockFast.io-blue)](https://mockfast.io)
 ### 🛠️ Tech Stack
 - Languages: Java, JavaScript/TypeScript, Python
 - Frameworks: React.js, Angular, Spring-boot, node.js
