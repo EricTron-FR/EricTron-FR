@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Eric!
 🚀 Senior Backend Engineer & Creator of [MockFast - API Mocking Tool](https://mockfast.io) and [EsportHub](https://play.google.com/store/apps/details?id=com.esport.hub)
-📍 Based in Lyon, France - Bringing 8+ years of backend development expertise, particularly in Java, to the fintech world at Payplug.
+📍 Based in France - Bringing 8+ years of backend development expertise, particularly in Java, to the fintech world at Payplug.
 ### 🎯 Professional Snapshot
 - Current Role: Senior Backend Software Engineer at Payplug
   - 📅 Tenure: Jul 2023 - Present
